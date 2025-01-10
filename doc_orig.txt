@@ -1,3 +1,7 @@
 10.01 First Edit.
 10.01 second edit
+<<<<<<< HEAD
 10.01 forth edit
+=======
+10.01 edit from github.com repository
+>>>>>>> aee777ec8c0981ea27dadd5849bbfd2bb9e37127
